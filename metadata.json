@@ -1,0 +1,6 @@
+{
+  "name": "AeroPulse - Dynamic AQI & Atmospheric Analytics",
+  "description": "Dynamic real-time air quality analysis platform with interactive geospatial overlays, dual Indian CPCB NAQI & US EPA calculation engines, multi-pollutant timeline analytics, and academic CSV export.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
